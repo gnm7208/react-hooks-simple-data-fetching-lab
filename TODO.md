@@ -1,0 +1,2 @@
+- [x] Implement App component in src/components/App.js with useEffect for fetching dog image, loading state, and image display.
+- [x] Run npm test to verify the implementation passes the tests.
